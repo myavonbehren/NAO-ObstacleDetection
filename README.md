@@ -109,7 +109,7 @@ Successfully implementing obstacle avoidance marked a significant achievement, y
 
 Moreover, instances of the robot falsely detecting obstacles, although improved with the averaging of sensor values, still require further optimization. I think exploring the potential integration of the camera may offer a valuable solution.
 
-Overall, this project allowed me to understand the trial-and-error of problem-solving, where learning from mistakes was crucial. Despite encountering challenges, like the camera and tactile sensors not being as useful as anticipated, I embraced the process and gained valuable experience navigating unexpected hurdles.
+Overall, this project allowed me to understand the trial-and-error of problem-solving, where learning from mistakes was crucial. Despite encountering challenges, like the camera and tactile sensors not being as useful as anticipated, I embraced the process and gained valuable experience in robotics.
 
 
 
