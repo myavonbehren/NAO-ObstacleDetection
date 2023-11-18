@@ -69,7 +69,7 @@ Lastly, I explored NAO’s two cameras located in the forehead. Utilizing NAO’
   <img width="460" height="300" src="https://github.com/myavonbehren/NAO-ObstacleDetection/assets/105401477/6055c1ae-d123-450d-a6b8-d9c9cc8d5052">
 </p>
 
-The Image_Detection folder has a set of modules that use NAO’s top cameras to capture an image facing forward. Following this, it turns its head right, capturing another image, replicating this process by turning its head left and obtaining a third image. Then, these three images are processed using OpenCV. Using OpenCV, the program creates a mask identifying the blue object, and if the count of blue pixels surpasses a predefined threshold, NAO then executes a programmed response.
+The Image_Detection folder has a set of modules that use NAO’s top camera to capture an image facing forward. Following this, it turns its head right, capturing another image, replicating this process by turning its head left and obtaining a third image. Then, these three images are processed using OpenCV. Using OpenCV, the program creates a mask identifying the blue object, and if the count of blue pixels surpasses a predefined threshold, NAO then executes a programmed response.
 <p align="center">
   <img width="850" height="283" src="https://github.com/myavonbehren/NAO-ObstacleDetection/assets/105401477/163d1782-28c2-4126-89cc-f821483dc77c">
 </p>
