@@ -44,7 +44,7 @@ I started the process by experimenting with the ultrasonic sensors to assess the
 For the most accurate results, the final program iteratively reads the sensor values and calculates the average of these values. Thus reducing the likelihood of erratic readings and improving the overall reliability of the results.
 
 ```python
-        left_sum = 0left_sum = 0
+        left_sum = 0
         right_sum = 0
 
         for _ in range(5):
