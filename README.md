@@ -1,4 +1,5 @@
 # NAO Obstacle Detection
+An autonomous navigation system for Aldebaran's NAO humanoid robot that leverages the robot's built-in ultrasonic sensors for real-time obstacle detection and avoidance. The system enables NAO to safely navigate environments by detecting obstacles in its path and implementing intelligent avoidance behaviors.
 
 https://github.com/myavonbehren/NAO-ObstacleDetection/assets/105401477/dcb8c350-e9fa-4f8a-bf88-762ac5b85345
 
